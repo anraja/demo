@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"uploads": [
+{
+"title": "MJ_Coffin_90_4244",
+"product": "MJ",
+"advertiser": "4 Life Direct",
+"producer": "Velvet Films",
+"email": "herbert@velvet.tv",
+"composer": "Polaris Rose",
+"composition title": "I believe in you",
+"screenplay": "Brak informacji",
+"copyright": "Brak informacji"
+}
+]
 }
